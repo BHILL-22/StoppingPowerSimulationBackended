@@ -1,7 +1,0 @@
-fastapi
-uvicorn
-pydantic
-numpy
-scipy
-tensorflow==2.15.0
-joblib
