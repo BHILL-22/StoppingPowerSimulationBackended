@@ -3,5 +3,5 @@ uvicorn
 pydantic
 numpy
 scipy
-tensorflow
+tensorflow==2.15.0
 joblib
